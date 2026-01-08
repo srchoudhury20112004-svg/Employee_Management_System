@@ -50,7 +50,7 @@ This system is ideal for learning **real-world backend development** using Java 
 
 ---
 
-## 📁 Project Structure (Enterprise Level)
+## 📁 Project Structure
 
 ```text
 EmployeeManagementSystem/
@@ -90,7 +90,7 @@ EmployeeManagementSystem/
 │       │   ├── db.properties                           # Database configuration
 │       │   └── log4j2.xml                              # Logging configuration
 │       │
-│       └── webapp/                                     # (Optional if GUI/Web added later)
+│       └── webapp/                                    
 │
 ├── database/
 │   └── database_setup.sql                              # Database schema
@@ -100,3 +100,4 @@ EmployeeManagementSystem/
 │
 ├── pom.xml                                             # Maven build file
 └── README.md                                           # Project documentation
+
